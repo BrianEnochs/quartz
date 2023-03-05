@@ -1,3 +1,7 @@
+---
+title: "The Blood War"
+---
+
 ![[Pasted image 20221212020844.png]]
 
 In the depths of the lower planes, a war rages on between two powerful factions: the devils, who rule over [[The Four Hells]], and the demons, who seek to overthrow them and claim the hells for themselves. For countless eons, the two sides have fought a brutal and bloody conflict, with neither gaining a clear advantage over the other. The devils, led by the cunning and ruthless [[Asmodeus]] and his two generals [[Zariel]] and [[Bel]], are organized and disciplined, but also cruel and oppressive. They use their superior knowledge of magic and their control over the hells' resources to try to maintain their hold on power. The demons, on the other hand, are chaotic and unpredictable, with leadership spread between the five Demon Lords; [[Baphomet]], [[Demogorgon]], [[Graz'zt]], [[Malcanthet]], and [[Orcus]]. They are driven by their insatiable desire for destruction and their ancient hatred of the devils, and will stop at nothing to destroy them and take over the hells. Despite the demons' overwhelming numbers and ferocious power, they have been unable to break the devils' defenses and claim victory. The war continues to rage on, with both sides suffering heavy losses and neither gaining a decisive advantage. As the conflict drags on, it has begun to spill over into the other lower planes, causing destruction and suffering wherever it goes. The fate of the lower planes hangs in the balance, as the war between the devils and demons shows no signs of ending.
