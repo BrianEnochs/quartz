@@ -1,0 +1,185 @@
+{
+  "mapMarkers": [
+    {
+      "id": "leaflet-map",
+      "lastAccessed": 1670841410444,
+      "markers": [
+        {
+          "id": "ID_5839c8496878",
+          "type": "Point",
+          "loc": [
+            -1.97869873046875,
+            3.28515625
+          ],
+          "link": "Alarar",
+          "layer": "%5B%5BMap.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": 8,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_4a183a8a8919",
+          "type": "Point",
+          "loc": [
+            -2.60760498046875,
+            1.6796875
+          ],
+          "link": "Haakitoft",
+          "layer": "%5B%5BMap.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": 8,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_e82b082858f9",
+          "type": "Point",
+          "loc": [
+            -1.54510498046875,
+            1.0234375
+          ],
+          "link": "Wyton",
+          "layer": "%5B%5BMap.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": 8,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_388b4b988aea",
+          "type": "Point",
+          "loc": [
+            -2.59197998046875,
+            2.0625
+          ],
+          "link": "Dead Branch Thicket",
+          "layer": "%5B%5BMap.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": 8,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_686919486a3b",
+          "type": "Point",
+          "loc": [
+            -0.63494873046875,
+            2.359375
+          ],
+          "link": "Nymph Woods",
+          "layer": "%5B%5BMap.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": 8,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_5bda2b9a8888",
+          "type": "Point",
+          "loc": [
+            -0.65447998046875,
+            3.296875
+          ],
+          "link": "Cowich Castle",
+          "layer": "%5B%5BMap.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": 8,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_7b3be88a1b59",
+          "type": "Point",
+          "loc": [
+            -0.9183349609375,
+            0.9609375
+          ],
+          "link": "Opgrove",
+          "layer": "%5B%5BShivering%20Realms%20Map.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": 8,
+          "tooltip": "hover"
+        }
+      ],
+      "overlays": [],
+      "shapes": [],
+      "files": [
+        "Loria/The Shivering Realms/Map.md"
+      ]
+    }
+  ],
+  "defaultMarker": {
+    "type": "default",
+    "iconName": "map-marker",
+    "color": "#dddddd",
+    "transform": {
+      "size": 6,
+      "x": 0,
+      "y": -2
+    }
+  },
+  "markerIcons": [
+    {
+      "type": "Point",
+      "iconName": "angle-double-down",
+      "color": "#000000",
+      "layer": false,
+      "transform": {
+        "size": 6,
+        "x": 0,
+        "y": -2
+      },
+      "isImage": true,
+      "imageUrl": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABUAAAAYCAYAAAAVibZIAAAAAXNSR0IArs4c6QAAASVJREFUSEvN1GlKxEAQQOFvxH3BfUMRvIcn9zjuOy4oKipSQyKxp5PJIAEL+k+68vpVV9E9fBVr3N9jF0c9xPpMeK+YbXHGBi6SvOM6aMp7wiKWcDfksD40YgwfLczSlCtsYRunOMHeqNB7rGQOz0IjLxr13mD7gOXM/ibOcYZoVL9JZfwbaLX7WdMwnsBbzRXkyi+hUf5O+V+1/FGh67gsQI3QyJlEDH8aqWkJDXB0/ydS07bQGKuYy6nCdig0wNN4SVSrpqu4Rjn8v1Jzpp1BAzyD54pCaRql3xSmMfgDUWfaGTTAc4gXKiJM94tX6hbR/Ww0mXYGjSk4xEGi9CfTYM3jsQKNR3qtrvT4Pqz8zqABXigaVfdItxr+tLpOoE1XOLD3DSE+UNlungiJAAAAAElFTkSuQmCC",
+      "tags": [],
+      "minZoom": null,
+      "maxZoom": 8
+    }
+  ],
+  "color": "#dddddd",
+  "lat": 39.983334,
+  "long": -82.98333,
+  "notePreview": false,
+  "layerMarkers": true,
+  "previousVersion": "5.2.6",
+  "version": {
+    "major": 5,
+    "minor": 2,
+    "patch": 6
+  },
+  "warnedAboutMapMarker": false,
+  "copyOnClick": false,
+  "displayMarkerTooltips": "hover",
+  "displayOverlayTooltips": true,
+  "configDirectory": null,
+  "mapViewEnabled": true,
+  "mapViewParameters": {},
+  "enableDraw": true,
+  "defaultUnitType": "imperial",
+  "defaultTile": "https://stamen-tiles.a.ssl.fastly.net/terrain/{z}/{x}/{y}.png",
+  "defaultTileDark": "https://stamen-tiles.a.ssl.fastly.net/terrain/{z}/{x}/{y}.png",
+  "defaultAttribution": "Map tiles by <a href=\"http://stamen.com\">Stamen Design</a>, under <a href=\"http://creativecommons.org/licenses/by/3.0\">CC BY 3.0</a>. Data by <a href=\"http://openstreetmap.org\">OpenStreetMap</a>, under <a href=\"http://www.openstreetmap.org/copyright\">ODbL</a>."
+}

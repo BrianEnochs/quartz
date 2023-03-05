@@ -1,0 +1,9 @@
+**Date**: 27 Dewmun
+
+The Flower's Rise is a joyous and colorful holiday that is celebrated by followers of the goddess [[Ehlonna]]. It is a time when people come together to honor their patroness, and to celebrate the beauty and abundance of the forest. During the Flower's Rise, followers of [[Ehlonna]] create a garland of flowers that they procure themselves. The garland is then hung in their home, where it is seen as the embodiment of [[Ehlonna]], watching over the residents and blessing them with good fortune.
+
+The Flower's Rise is a time of joy and celebration, as people come together to create beautiful and intricate garlands of flowers. The garlands are typically made from a variety of different flowers, each chosen for their color, scent, and meaning. Some people choose flowers that are associated with [[Ehlonna]], such as lilies, daisies, and roses, while others select flowers that have personal significance to them. The garlands are often adorned with ribbons, beads, and other decorations, and they are crafted with great care and attention to detail.
+
+Once the garlands are completed, they are hung in the homes of the followers of [[Ehlonna]], where they are seen as a symbol of the goddess' presence and protection. The garlands are believed to bring good luck, abundance, and fertility to the residents of the home, and they are often left in place for the duration of the holiday. Some people also exchange garlands with their friends and loved ones, as a symbol of their shared devotion to [[Ehlonna]] and the forest.
+
+Overall, the Flower's Rise is a time of joy, celebration, and connection to the natural world. It is a holiday that is deeply rooted in the traditions and beliefs of [[Ehlonna]]'s followers, and it is an opportunity for people to come together and celebrate the beauty and bounty of the forest.

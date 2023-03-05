@@ -1,0 +1,306 @@
+{
+  "addToDefaultIfMissing": true,
+  "calendars": [
+    {
+      "name": "Loria",
+      "description": null,
+      "static": {
+        "firstWeekDay": 0,
+        "overflow": true,
+        "weekdays": [
+          {
+            "type": "day",
+            "name": "Sul",
+            "id": "ID_cb1a8b4b9b29"
+          },
+          {
+            "type": "day",
+            "name": "Mol",
+            "id": "ID_aa192878a868"
+          },
+          {
+            "type": "day",
+            "name": "Zol",
+            "id": "ID_8b397b6a4978"
+          },
+          {
+            "type": "day",
+            "name": "Wir",
+            "id": "ID_282a4a2a4b8a"
+          },
+          {
+            "type": "day",
+            "name": "Zor",
+            "id": "ID_082babfac85b"
+          },
+          {
+            "type": "day",
+            "name": "Far",
+            "id": "ID_ba988ab988f9"
+          },
+          {
+            "type": "day",
+            "name": "Sar",
+            "id": "ID_4af8c9582af8"
+          }
+        ],
+        "months": [
+          {
+            "name": "Dewmun",
+            "type": "month",
+            "length": 30,
+            "id": "ID_88ab48482a7b"
+          },
+          {
+            "name": "Goldmun",
+            "type": "month",
+            "length": 28,
+            "id": "ID_fb7b7b985938"
+          },
+          {
+            "name": "Feastmun",
+            "type": "month",
+            "length": 33,
+            "id": "ID_8bb9fa3b99fb"
+          },
+          {
+            "name": "Hearthmun",
+            "type": "month",
+            "length": 21,
+            "id": "ID_7b39e888093a"
+          }
+        ],
+        "moons": [
+          {
+            "name": "Eris",
+            "cycle": 14,
+            "offset": 0,
+            "faceColor": "#ffffff",
+            "shadowColor": "#292b4a",
+            "id": "ID_d978ebb8ba1a"
+          },
+          {
+            "name": "Tethys",
+            "cycle": 28,
+            "offset": 0,
+            "faceColor": "#ffffff",
+            "shadowColor": "#292b4a",
+            "id": "ID_3baa2bb8da2a"
+          },
+          {
+            "name": "Callisto",
+            "cycle": 56,
+            "offset": 0,
+            "faceColor": "#ffffff",
+            "shadowColor": "#292b4a",
+            "id": "ID_a89b19398a18"
+          },
+          {
+            "name": "Salim",
+            "cycle": 112,
+            "offset": 0,
+            "faceColor": "#ffffff",
+            "shadowColor": "#292b4a",
+            "id": "ID_1958fa98f859"
+          }
+        ],
+        "leapDays": [],
+        "eras": [],
+        "displayMoons": true,
+        "incrementDay": false,
+        "displayDayNumber": true
+      },
+      "current": {
+        "year": 962,
+        "day": 1,
+        "month": 0
+      },
+      "events": [
+        {
+          "name": "Hearthwarming",
+          "id": "1492142",
+          "note": "Shivering Realms/Calendar Events/Hearthwarming",
+          "date": {
+            "day": 1,
+            "year": null,
+            "month": null
+          },
+          "category": "religious-days"
+        },
+        {
+          "name": "Highcoin (Start)",
+          "id": "1492185",
+          "note": "Shivering Realms/Calendar Events/Highcoin",
+          "date": {
+            "day": 3,
+            "year": null,
+            "month": 0
+          },
+          "category": "religious-days"
+        },
+        {
+          "name": "Justday",
+          "id": "1492186",
+          "note": "Shivering Realms/Calendar Events/Justday",
+          "date": {
+            "day": 20,
+            "year": null,
+            "month": 0
+          },
+          "category": "religious-days"
+        },
+        {
+          "name": "Flower’s Rise",
+          "id": "1492187",
+          "note": "Shivering Realms/Calendar Events/Flower’s Rise",
+          "date": {
+            "day": 27,
+            "year": null,
+            "month": 0
+          },
+          "category": "religious-days"
+        },
+        {
+          "name": "Communion",
+          "id": "1492189",
+          "note": "Shivering Realms/Calendar Events/Communion",
+          "date": {
+            "day": 18,
+            "year": null,
+            "month": null
+          },
+          "category": "religious-days"
+        },
+        {
+          "name": "The Games of Kord",
+          "id": "1492188",
+          "note": "Shivering Realms/Calendar Events/The Games of Kord",
+          "date": {
+            "day": 12,
+            "year": null,
+            "month": 1
+          },
+          "category": "religious-days"
+        },
+        {
+          "name": "Goldfest",
+          "id": "1492190",
+          "note": "Shivering Realms/Calendar Events/Goldfest",
+          "date": {
+            "day": 22,
+            "year": null,
+            "month": 1
+          },
+          "category": "religious-days"
+        },
+        {
+          "name": "Valormight",
+          "id": "1492191",
+          "note": "Shivering Realms/Calendar Events/Valormight",
+          "date": {
+            "day": 26,
+            "year": null,
+            "month": 1
+          },
+          "category": "religious-days"
+        },
+        {
+          "name": "Flower’s Fall",
+          "id": "1492192",
+          "note": "Shivering Realms/Calendar Events/Flower’s Fall",
+          "date": {
+            "day": 6,
+            "year": null,
+            "month": 2
+          },
+          "category": "religious-days"
+        },
+        {
+          "name": "Feast of Boldrei",
+          "id": "1492193",
+          "note": "Shivering Realms/Calendar Events/Feast of Boldrei",
+          "date": {
+            "day": 16,
+            "year": null,
+            "month": 2
+          },
+          "category": "religious-days"
+        },
+        {
+          "name": "The Abatement",
+          "id": "1492194",
+          "note": "Shivering Realms/Calendar Events/The Abatement",
+          "date": {
+            "day": 30,
+            "year": null,
+            "month": 2
+          },
+          "category": "religious-days"
+        },
+        {
+          "name": "Midnight Winter",
+          "id": "1492195",
+          "note": "Shivering Realms/Calendar Events/Midnight Winter",
+          "date": {
+            "day": 12,
+            "year": null,
+            "month": 3
+          },
+          "category": "religious-days"
+        },
+        {
+          "name": "Highcoin (End)",
+          "description": null,
+          "date": {
+            "month": 0,
+            "day": 24,
+            "year": null
+          },
+          "id": "ID_1ad92b39b8cb",
+          "note": "Shivering Realms/Calendar Events/Highcoin",
+          "category": "religious-days"
+        }
+      ],
+      "id": "ID_5bf9782a9a69",
+      "categories": [
+        {
+          "name": "Religious Days",
+          "id": "religious-days",
+          "color": "#462eff"
+        },
+        {
+          "name": "Celestial Events",
+          "id": "celestial-events",
+          "color": "#000000"
+        }
+      ],
+      "timelineTag": "#timeline",
+      "displayWeeks": false
+    }
+  ],
+  "configDirectory": null,
+  "currentCalendar": null,
+  "dailyNotes": false,
+  "dateFormat": "YYYY-MM-DD",
+  "defaultCalendar": "ID_5bf9782a9a69",
+  "eventPreview": false,
+  "exit": {
+    "saving": false,
+    "event": false,
+    "calendar": false
+  },
+  "eventFrontmatter": false,
+  "parseDates": false,
+  "settingsToggleState": {
+    "calendars": false,
+    "events": true,
+    "advanced": true
+  },
+  "showIntercalary": false,
+  "version": {
+    "major": null,
+    "minor": null,
+    "patch": null
+  },
+  "debug": false
+}

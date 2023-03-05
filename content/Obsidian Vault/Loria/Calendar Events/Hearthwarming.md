@@ -1,0 +1,5 @@
+**Dates**: 1st day of each month
+
+The Hearthwarming festival is a simple, yet meaningful holiday that is celebrated on the first day of each month. It is a time when families gather around their hearths and stoves to honor the goddess [[Boldrei]], the patroness of home and hearth. As part of the celebration, families prepare dishes that are focused around beans, which are believed to bring good luck and prosperity. The meal is often a simple affair, consisting of hearty dishes such as bean stews and soups, but it is also an opportunity for families to come together and enjoy each other's company.
+
+During the Hearthwarming festival, people also take time to reflect on the past month and make plans for the coming one. They may set goals or make resolutions, and they often exchange gifts or tokens of good luck with their loved ones. Some families also engage in traditional activities such as telling stories, singing songs, or playing games. Overall, the Hearthwarming holiday is a time of warmth, community, and good fortune.

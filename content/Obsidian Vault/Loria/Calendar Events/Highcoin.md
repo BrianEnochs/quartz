@@ -1,0 +1,9 @@
+**Dates**: A single day between 3 and 24 Dewmun
+
+The Highcoin tradition is a beloved and highly anticipated event that takes place in the region of [[Isish]]. It is a time when glass spheres filled with gems and coins are paraded around a random city or village, and then catapulted into the town for the general populace to snatch up. The Highcoin tradition is a chaotic and frenzied affair, as people scramble to grab as many of the coins and gems as they can, in the hopes of striking it rich.
+
+The Highcoin tradition has its roots in the region's rich and colorful history. In the distant past, the people of [[Isish]] were known for their great wealth and their love of fine gems and precious metals. In order to celebrate their abundance and to share their good fortune with others, they began the tradition of the Highcoin, where they would fill glass spheres with coins and gems, and then launch them into the town for people to grab. Over time, the tradition has evolved, but the spirit of generosity and abundance remains the same.
+
+Today, the Highcoin tradition is celebrated every year in a different city or village within the region of [[Isish]]. The location is chosen at random, and the people of the town are given notice several days in advance, so that they can prepare for the event. On the day of the Highcoin, the streets are filled with excited crowds, eager to see the parade of glass spheres and to try their luck at grabbing some of the coins and gems. The event is usually presided over by a group of high name followers of [[Waukeen]], who help to oversee the planning, parade, and launching of the spheres.
+
+Overall, the Highcoin tradition is a time of excitement, joy, and abundance. It is a celebration of the region's rich history and its people's love of wealth and good fortune.

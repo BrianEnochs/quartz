@@ -1,0 +1,7 @@
+**Dates**: 5 to 12 Goldmun
+
+The Games of Kord are an annual event that takes place in the city of [[Haakitoft]]. They consist of a series of intense and physically demanding sports, such as wrestling matches, that are held over the course of a week. The city of [[Haakitoft]] is known for its hedonistic atmosphere during the Games of Kord, and overindulgence in all forms of pleasure is actively encouraged. This means that visitors to the city can expect to find a wide variety of indulgent activities and experiences to enjoy. This may include a variety of delicious and exotic foods, opportunities to try new and exciting forms of entertainment, and luxurious spas and relaxation centers where visitors can unwind and pamper themselves.
+
+In addition to the main sports events, the Games of Kord may also feature a variety of other competitions and contests, such as boxing, running, and other tests of physical strength, speed, and endurance. The city of [[Haakitoft]] comes alive during the Games of Kord, as thousands of visitors and athletes flock to the city to participate in and witness the exciting competitions.
+
+Overall, the week of the Games is a time of excitement, glory, and enjoyment. It serves as a time to enjoy life the same way that [[Kord]] did in his time before he rose to godhood.

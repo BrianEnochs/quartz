@@ -1,0 +1,11 @@
+{
+  "attachmentFolderPath": "Images",
+  "readableLineLength": true,
+  "strictLineBreaks": false,
+  "spellcheck": true,
+  "smartIndentList": false,
+  "useTab": false,
+  "showIndentGuide": false,
+  "newLinkFormat": "absolute",
+  "alwaysUpdateLinks": true
+}
