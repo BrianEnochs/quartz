@@ -1,7 +1,5 @@
 ---
 title: Loria
-enableToc: false
 ---
 
-
-
+Check out the [[Obsidian Vault/Loria/Deities/Domains]]!
